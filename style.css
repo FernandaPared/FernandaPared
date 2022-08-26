@@ -152,7 +152,7 @@ p{
 
 .grid1{
     display: grid;
-    grid-template-columns: repeat(3, 400px);
+    grid-template-columns: repeat(3, 350px);
     grid-template-rows: repeat(3, 110px);
     margin-top: 40px;
     background-color: rgb(228, 226, 225);
@@ -194,13 +194,13 @@ button {
 
 .footer2{
     background-color: black;
-    height: 168px;
-    margin-top: 106px;    
+    height: 252px;
+    margin-top: -10px;    
 }
 
 .footer1{
     background-color: black;
-    height: 168px;
+    height: 252px;
 }
 
 h3 {
